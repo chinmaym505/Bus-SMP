@@ -1,0 +1,25 @@
+[2025/06/18 17:52:45]: §9          __             _       
+[2025/06/18 17:52:45]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/06/18 17:52:45]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/06/18 17:52:45]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/06/18 17:52:45]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/06/18 17:52:45]: §9                  |___/            
+[2025/06/18 17:52:45]: §9 By: www.nickuc.com - V 10.4.21
+[2025/06/18 17:52:45]: §9 
+[2025/06/18 17:52:46]: §3[nLogin] [DEBUG] All settings were loaded in 394 ms.
+[2025/06/18 17:52:46]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2025/06/18 17:52:46]: §3[nLogin] [DEBUG] All plugin messages were loaded in 99 ms (languageByClient=false).
+[2025/06/18 17:52:46]: §3[nLogin] [DEBUG] All proxy settings were loaded in 22 ms.
+[2025/06/18 17:52:46]: §3[nLogin] [DEBUG] Loading database...
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] 
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] Server requires conversion of database. (nLogin104Converter)
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] DO NOT TURN OFF YOUR SERVER (even if the process seems stuck)
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] 
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] Fetching column names...
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] Renaming table...
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] Cloning table...
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] Fetching duplicated UUIDs...
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] Inserting remaining accounts with duplicated UUIDs... (insert = 0, skip = 0)
+[2025/06/18 17:52:46]: §e[nLogin] [WARN] Conversion finished! (0.238s)
+[2025/06/18 17:52:46]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/06/18 17:52:51]: [nLogin] Successful plugin core shutdown (took 0.00s)

@@ -1,0 +1,399 @@
+[17:52:35] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[17:52:35] [Server thread/INFO]: Loading properties
+[17:52:35] [Server thread/INFO]: Default game type: SURVIVAL
+[17:52:36] [Server thread/INFO]: This server is running PandaSpigot version git-PandaSpigot-119 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT) (Git: 858ab0f)
+[17:52:36] [Server thread/INFO]: Debug logging is disabled
+[17:52:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[17:52:36] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[17:52:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:52:37] [Server thread/INFO]: Data value allowed items: 
+[17:52:37] [Server thread/INFO]: Generating keypair
+[17:52:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:52:38] [Server thread/INFO]: Using default channel type
+[17:52:39] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[17:52:39] [Server thread/INFO]: [CrackShot] Loading CrackShot v0.98.5
+[17:52:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[17:52:39] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v5.0.0
+[17:52:39] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.0 is now loaded. Registering protocol transformers and injecting...
+[17:52:40] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:52:41] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[17:52:41] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[17:52:43] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[17:52:43] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v5.0.0
+[17:52:43] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[17:52:43] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v4.0.0
+[17:52:43] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading ViaRewind-Legacy-Support v1.5.1
+[17:52:43] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib v1.5.4
+[17:52:43] [Server thread/INFO]: [Slimefun] Loading Slimefun v3.6.6
+[17:52:43] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.0
+[17:52:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:52:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:52:43] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[17:52:43] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[17:52:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:52:43] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:52:44] [Server thread/INFO]: Preparing level "world"
+[17:52:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:52:44] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:52:44] [Server thread/INFO]: Clear tick list: false
+[17:52:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:52:44] [Server thread/INFO]: Mob Spawn Range: 4
+[17:52:44] [Server thread/INFO]: Anti X-Ray: true
+[17:52:44] [Server thread/INFO]: 	Engine Mode: 1
+[17:52:44] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:52:44] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:52:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:52:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:52:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:52:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:52:44] [Server thread/INFO]: Random Lighting Updates: false
+[17:52:44] [Server thread/INFO]: Structure Info Saving: true
+[17:52:44] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:52:44] [Server thread/INFO]: Max Entity Collisions: 8
+[17:52:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:52:44] [Server thread/INFO]: Max TNT Explosions: 100
+[17:52:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:52:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:52:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:52:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:52:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:52:44] [Server thread/INFO]: View Distance: 10
+[17:52:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:52:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:52:44] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:52:44] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:52:44] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:52:44] [Server thread/INFO]: World async lighting: false
+[17:52:44] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:52:44] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:52:44] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:52:44] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:52:44] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:52:44] [Server thread/INFO]: Water over lava flow speed: 5
+[17:52:44] [Server thread/INFO]: Fix TNT cannons: false
+[17:52:44] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:52:44] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:52:44] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:52:44] [Server thread/INFO]: Clear tick list: false
+[17:52:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:52:44] [Server thread/INFO]: Mob Spawn Range: 4
+[17:52:44] [Server thread/INFO]: Anti X-Ray: true
+[17:52:44] [Server thread/INFO]: 	Engine Mode: 1
+[17:52:44] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:52:44] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:52:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:52:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:52:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:52:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:52:44] [Server thread/INFO]: Random Lighting Updates: false
+[17:52:44] [Server thread/INFO]: Structure Info Saving: true
+[17:52:44] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:52:44] [Server thread/INFO]: Max Entity Collisions: 8
+[17:52:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:52:44] [Server thread/INFO]: Max TNT Explosions: 100
+[17:52:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:52:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:52:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:52:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:52:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:52:44] [Server thread/INFO]: View Distance: 10
+[17:52:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:52:44] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:52:44] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:52:44] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:52:44] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:52:44] [Server thread/INFO]: World async lighting: false
+[17:52:44] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:52:44] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:52:44] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:52:44] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:52:44] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:52:44] [Server thread/INFO]: Water over lava flow speed: 5
+[17:52:44] [Server thread/INFO]: Fix TNT cannons: false
+[17:52:44] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:52:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:52:44] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[17:52:44] [Server thread/INFO]: Clear tick list: false
+[17:52:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:52:44] [Server thread/INFO]: Mob Spawn Range: 4
+[17:52:44] [Server thread/INFO]: Anti X-Ray: true
+[17:52:44] [Server thread/INFO]: 	Engine Mode: 1
+[17:52:44] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[17:52:44] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[17:52:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:52:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:52:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:52:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:52:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:52:44] [Server thread/INFO]: Random Lighting Updates: false
+[17:52:44] [Server thread/INFO]: Structure Info Saving: true
+[17:52:44] [Server thread/INFO]: Sending up to 10 chunks per packet
+[17:52:44] [Server thread/INFO]: Max Entity Collisions: 8
+[17:52:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:52:44] [Server thread/INFO]: Max TNT Explosions: 100
+[17:52:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:52:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:52:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:52:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[17:52:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:52:44] [Server thread/INFO]: View Distance: 10
+[17:52:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:52:44] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:52:44] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:52:44] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:52:44] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:52:44] [Server thread/INFO]: World async lighting: false
+[17:52:44] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:52:44] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:52:44] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:52:44] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:52:44] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:52:44] [Server thread/INFO]: Water over lava flow speed: 5
+[17:52:44] [Server thread/INFO]: Fix TNT cannons: false
+[17:52:44] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:52:44] [Server thread/INFO]: Preparing start region for level 0 (Seed: 9060089525696424375)
+[17:52:45] [Server thread/INFO]: Preparing spawn area: 15%
+[17:52:46] [Server thread/INFO]: Preparing spawn area: 49%
+[17:52:47] [Server thread/INFO]: Preparing start region for level 1 (Seed: 9060089525696424375)
+[17:52:48] [Server thread/INFO]: Preparing start region for level 2 (Seed: 9060089525696424375)
+[17:52:48] [Server thread/INFO]: [CrackShot] Enabling CrackShot v0.98.5
+[17:52:48] [Server thread/INFO]: [CrackShot] Gun-mode activated. Boop!
+[17:52:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[17:52:48] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:52:48] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[17:52:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.0
+[17:52:49] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.0
+[17:52:49] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[17:52:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[17:52:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[17:52:49] [Server thread/INFO]: [WorldGuard] Loading region data...
+[17:52:49] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.5.1
+[17:52:49] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib v1.5.4
+[17:52:49] [Server thread/INFO]: [CS-CoreLib - Protection] Loaded Protection Module "WorldGuard"
+
+[17:52:49] [Server thread/INFO]: [Slimefun] Enabling Slimefun v3.6.6
+[17:52:49] [Server thread/INFO]: [Slimefun] Loading Files...
+
+[17:52:49] [Server thread/INFO]: [Slimefun] Loading Config...
+
+[17:52:49] [Server thread/INFO]: [Slimefun] Loading Items...
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loading Researches...
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] This may take a long time...
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] This may take a long time...
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] This may take a long time...
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Finished!
+
+[17:52:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:52:50] [Server thread/INFO]: Done (6.334s)! For help, type "help" or "?"
+[17:52:50] [Server thread/INFO]: Timings Reset
+[17:52:50] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[17:52:50] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[17:52:50] [Server thread/INFO]: [Slimefun] Auto-Saving Data... (Next Auto-Save: 10m)
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Saving Blocks for World "world"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] This may take a while...
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Saving Blocks for World "world_nether"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] This may take a while...
+
+[17:52:50] [Server thread/INFO]: [Slimefun] Saving Blocks for World "world_the_end"
+
+[17:52:50] [Server thread/INFO]: [Slimefun] This may take a while...
+
+[17:52:50] [Server thread/INFO]: ###################### - Slimefun - ######################
+[17:52:50] [Server thread/INFO]: Successfully loaded 332 Items (152 Researches)
+[17:52:50] [Server thread/INFO]: ( 332 Items from Slimefun, 0 Items from Addons )
+[17:52:50] [Server thread/INFO]: ##########################################################
+[17:52:50] [Craft Scheduler Thread - 1/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[17:52:51] [Thread-4/INFO]: [CS-CoreLib - Updater] Slimefun is outdated!
+
+[17:52:51] [Thread-5/INFO]: [CS-CoreLib - Updater] CS-CoreLib is outdated!
+
+[17:52:51] [Thread-5/INFO]: [CS-CoreLib - Updater] Downloading CS-CoreLib v1.6.2
+
+[17:52:51] [Thread-4/INFO]: [CS-CoreLib - Updater] Downloading Slimefun v4.1.15
+
+[17:52:51] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 5.0.0
+[17:52:51] [Server thread/WARN]:  
+
+[17:52:51] [Server thread/WARN]: #################### - ERROR - ####################
+
+[17:52:51] [Server thread/WARN]: Could not auto-update CS-CoreLib
+
+[17:52:51] [Server thread/WARN]: #################### - ERROR - ####################
+
+[17:52:51] [Server thread/WARN]:  
+
+[17:52:51] [Server thread/WARN]: java.io.FileNotFoundException: plugins/update/CS-CoreLib_v1.5.4.jar (No such file or directory)
+
+[17:52:51] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+
+[17:52:51] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+
+[17:52:51] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+
+[17:52:51] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:184)
+
+[17:52:51] [Server thread/WARN]: 	at me.mrCookieSlime.CSCoreLibPlugin.updater.Updater$UpdaterTask$1.run(Updater.java:138)
+
+[17:52:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[17:52:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[17:52:51] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:890)
+
+[17:52:51] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:412)
+
+[17:52:51] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:815)
+
+[17:52:51] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:648)
+
+[17:52:51] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.lambda$spin$0(MinecraftServer.java:133)
+
+[17:52:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[17:52:51] [Server thread/WARN]:  
+
+[17:52:51] [Server thread/WARN]: #################### - UPDATE - ####################
+
+[17:52:51] [Server thread/WARN]: CS-CoreLib was successfully updated (1.5.4 -> 1.6.2)
+
+[17:52:51] [Server thread/WARN]: Please restart your Server in order to use the new Version
+
+[17:52:51] [Server thread/WARN]:  
+
+[17:52:52] [Server thread/WARN]:  
+
+[17:52:52] [Server thread/WARN]: #################### - ERROR - ####################
+
+[17:52:52] [Server thread/WARN]: Could not auto-update Slimefun
+
+[17:52:52] [Server thread/WARN]: #################### - ERROR - ####################
+
+[17:52:52] [Server thread/WARN]:  
+
+[17:52:52] [Server thread/WARN]: java.io.FileNotFoundException: plugins/update/Slimefun_v3.6.6.jar (No such file or directory)
+
+[17:52:52] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.open0(Native Method)
+
+[17:52:52] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+
+[17:52:52] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+
+[17:52:52] [Server thread/WARN]: 	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:184)
+
+[17:52:52] [Server thread/WARN]: 	at me.mrCookieSlime.CSCoreLibPlugin.updater.Updater$UpdaterTask$1.run(Updater.java:138)
+
+[17:52:52] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+
+[17:52:52] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:352)
+
+[17:52:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:890)
+
+[17:52:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:412)
+
+[17:52:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:815)
+
+[17:52:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:648)
+
+[17:52:52] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.lambda$spin$0(MinecraftServer.java:133)
+
+[17:52:52] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[17:52:52] [Server thread/WARN]:  
+
+[17:52:52] [Server thread/WARN]: #################### - UPDATE - ####################
+
+[17:52:52] [Server thread/WARN]: Slimefun was successfully updated (3.6.6 -> 4.1.15)
+
+[17:52:52] [Server thread/WARN]: Please restart your Server in order to use the new Version
+
+[17:52:52] [Server thread/WARN]:  
+
+[17:52:58] [Server thread/INFO]: Stopping server
+[17:52:58] [Server thread/INFO]: [Slimefun] Disabling Slimefun v3.6.6
+[17:52:58] [Server thread/INFO]: [Slimefun] Saving Blocks for World "world"
+
+[17:52:58] [Server thread/INFO]: [Slimefun] This may take a while...
+
+[17:52:58] [Server thread/INFO]: [Slimefun] Saving Blocks for World "world_nether"
+
+[17:52:58] [Server thread/INFO]: [Slimefun] This may take a while...
+
+[17:52:58] [Server thread/INFO]: [Slimefun] Saving Blocks for World "world_the_end"
+
+[17:52:58] [Server thread/INFO]: [Slimefun] This may take a while...
+
+[17:52:58] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib v1.5.4
+[17:52:58] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.5.1
+[17:52:58] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.0
+[17:52:58] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[17:52:58] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[17:52:58] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.0
+[17:52:58] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.0
+[17:52:58] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[17:52:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[17:52:58] [Server thread/INFO]: [CrackShot] Disabling CrackShot v0.98.5
+[17:52:58] [Server thread/INFO]: Saving players

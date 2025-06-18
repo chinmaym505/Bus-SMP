@@ -1,0 +1,52 @@
+[2025/06/18 17:01:14]: §9          __             _       
+[2025/06/18 17:01:14]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/06/18 17:01:14]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/06/18 17:01:14]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/06/18 17:01:14]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/06/18 17:01:14]: §9                  |___/            
+[2025/06/18 17:01:14]: §9 By: www.nickuc.com - V 10.3.27
+[2025/06/18 17:01:14]: §9 
+[2025/06/18 17:01:14]: §3[nLogin] [DEBUG] All settings were loaded in 383 ms.
+[2025/06/18 17:01:15]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2025/06/18 17:01:15]: §3[nLogin] [DEBUG] All plugin messages were loaded in 200 ms (languageByClient=false).
+[2025/06/18 17:01:15]: §3[nLogin] [DEBUG] All proxy settings were loaded in 29 ms.
+[2025/06/18 17:01:15]: §3[nLogin] [DEBUG] Loading database...
+[2025/06/18 17:01:15]: [nLogin] Download finished (took 1322ms, hash = 6c77ce3c8214b402522c06127d69415d29b44b8b2229d241799ee27510166343)
+[2025/06/18 17:01:15]: [nLogin] Generating RSA keypair... (this may take a while)
+[2025/06/18 17:01:19]: [nLogin] The RSA key pair was successfully generated. Took 4.16s
+[2025/06/18 17:01:20]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/06/18 17:01:25]: 
+[2025/06/18 17:01:25]:  §bThank you so much for choosing nLogin! §4<3
+[2025/06/18 17:01:25]: 
+[2025/06/18 17:01:25]:  §4For your safety, please read the message below:
+[2025/06/18 17:01:25]:   §cNever download nLogin from unknown sources.
+[2025/06/18 17:01:25]:   §cA modified version may contain malicious software.
+[2025/06/18 17:01:25]: 
+[2025/06/18 17:01:25]:  §3Trusted sources:
+[2025/06/18 17:01:25]:   §bwww.nickuc.com
+[2025/06/18 17:01:25]:   §bwww.github.com/nickuc
+[2025/06/18 17:01:25]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2025/06/18 17:01:25]: 
+[2025/06/18 17:01:25]:  §3Official support channels:
+[2025/06/18 17:01:25]:   §bDiscord group: §fwww.nickuc.com/discord
+[2025/06/18 17:01:25]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2025/06/18 17:01:25]:   §bEmail: §fsupport@nickuc.com
+[2025/06/18 17:01:25]:   §bYouTube: §fyoutube.com/nickuc
+[2025/06/18 17:01:25]: 
+[2025/06/18 17:01:25]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2025/06/18 17:01:25]:  §eand click the "Setup plugin" button to configure your plugin.
+[2025/06/18 17:01:25]: 
+[2025/06/18 17:02:14]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('ChinmayM_3600', d688be8886413dbcb5d9b7c5d3992d11, null, null, '$2a$10$5oNb311Y9R/fcI4suJbbmeYmODPfkAENIlQz8EwFhxlVKHsd9bU0S', '0:0:0:0:0:0:0:1%0', '2025-06-18 17:02:14.765', '2025-06-18 17:02:14.765', null, null, null)" (applied to all columns)
+[2025/06/18 17:02:15]: [nLogin] The user ChinmayM_3600 has successfully registered.
+[2025/06/18 17:02:39]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ChinmayM_3600', `unique_id` = d688be8886413dbcb5d9b7c5d3992d11,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$5oNb311Y9R/fcI4suJbbmeYmODPfkAENIlQz8EwFhxlVKHsd9bU0S', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2025-06-18 17:02:14.765, `last_seen` = 2025-06-18 17:02:38.963, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/06/18 17:31:10]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ChinmayM_3600', `unique_id` = d688be8886413dbcb5d9b7c5d3992d11,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$5oNb311Y9R/fcI4suJbbmeYmODPfkAENIlQz8EwFhxlVKHsd9bU0S', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2025-06-18 17:02:14.765, `last_seen` = 2025-06-18 17:31:10.15, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/06/18 17:31:10]: [nLogin] The user ChinmayM_3600 has successfully logged in.
+[2025/06/18 17:43:15]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ChinmayM_3600', `unique_id` = d688be8886413dbcb5d9b7c5d3992d11,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$5oNb311Y9R/fcI4suJbbmeYmODPfkAENIlQz8EwFhxlVKHsd9bU0S', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2025-06-18 17:02:14.765, `last_seen` = 2025-06-18 17:43:15.541, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/06/18 17:44:14]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ChinmayM_3600', `unique_id` = d688be8886413dbcb5d9b7c5d3992d11,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$5oNb311Y9R/fcI4suJbbmeYmODPfkAENIlQz8EwFhxlVKHsd9bU0S', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2025-06-18 17:02:14.765, `last_seen` = 2025-06-18 17:44:14.882, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/06/18 17:44:14]: [nLogin] The user ChinmayM_3600 has successfully logged in.
+[2025/06/18 17:45:50]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ChinmayM_3600', `unique_id` = d688be8886413dbcb5d9b7c5d3992d11,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$5oNb311Y9R/fcI4suJbbmeYmODPfkAENIlQz8EwFhxlVKHsd9bU0S', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2025-06-18 17:02:14.765, `last_seen` = 2025-06-18 17:45:50.681, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/06/18 17:48:17]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ChinmayM_3600', `unique_id` = d688be8886413dbcb5d9b7c5d3992d11,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$5oNb311Y9R/fcI4suJbbmeYmODPfkAENIlQz8EwFhxlVKHsd9bU0S', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2025-06-18 17:02:14.765, `last_seen` = 2025-06-18 17:48:17.927, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/06/18 17:48:17]: [nLogin] The user ChinmayM_3600 has successfully logged in.
+[2025/06/18 17:52:28]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ChinmayM_3600', `unique_id` = d688be8886413dbcb5d9b7c5d3992d11,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$5oNb311Y9R/fcI4suJbbmeYmODPfkAENIlQz8EwFhxlVKHsd9bU0S', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2025-06-18 17:02:14.765, `last_seen` = 2025-06-18 17:52:28.08, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2025/06/18 17:52:33]: [nLogin] Update was successfully queued, do not forcibly stop your server. (v10.3.27 c6c611 => v10.4.21 dc69be)
+[2025/06/18 17:52:33]: [nLogin] Successful plugin core shutdown (took 0.03s)
