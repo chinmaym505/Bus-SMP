@@ -12,3 +12,21 @@
 17:52:36.456 INFO  Limbo -- Server stopped, Goodbye!
 17:52:39.208 INFO  Limbo -- Starting server...
 17:52:42.867 INFO  Limbo -- Starting server...
+18:34:07.319 INFO  Limbo -- Starting server...
+18:34:10.021 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+18:38:04.278 INFO  Limbo -- Player ChinmayM_3600 connected (/127.0.0.1:41298) [V1_8]
+18:38:08.344 INFO  Limbo -- Player ChinmayM_3600 disconnected
+18:43:42.298 INFO  Limbo -- Player ChinmayM_3600 connected (/127.0.0.1:46868) [V1_8]
+18:43:46.992 INFO  Limbo -- Player ChinmayM_3600 disconnected
+18:45:18.099 INFO  Limbo -- Player Mintyy connected (/127.0.0.1:56434) [V1_8]
+18:45:34.041 INFO  Limbo -- Player Mintyy disconnected
+18:45:35.686 INFO  Limbo -- Player ChinmayM_3600 connected (/127.0.0.1:47252) [V1_8]
+18:45:38.448 INFO  Limbo -- Player ChinmayM_3600 disconnected
+18:47:41.085 INFO  Limbo -- Player Mintyy connected (/127.0.0.1:40954) [V1_8]
+18:47:46.642 INFO  Limbo -- Player Mintyy disconnected
+18:48:12.109 INFO  Limbo -- Player ChinmayM_3600 connected (/127.0.0.1:38676) [V1_8]
+18:48:16.749 INFO  Limbo -- Player ChinmayM_3600 disconnected
+18:51:15.004 INFO  Limbo -- Player Mintyy connected (/127.0.0.1:56480) [V1_8]
+18:51:19.748 INFO  Limbo -- Player Mintyy disconnected
+19:06:25.518 INFO  Limbo -- Player ChinmayM_3600 connected (/127.0.0.1:59110) [V1_8]
+19:06:38.389 INFO  Limbo -- Player ChinmayM_3600 disconnected
